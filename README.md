@@ -1,5 +1,4 @@
-# Customer-segmentation   
-#### Poonam Solanke
+# Customer Segmentation using RFM Analysis of Online Retail Sales  
 ---
 ## Introduction
 
@@ -7,8 +6,9 @@ This report presents an analysis of sales data using the online retail dataset. 
 
 ### Data Overview
 
-•	Total number of unique invoices: 2048
-•	Total number of unique customers: 166
+- Dataset Size: 29640 rows × 8 columns	
+- Total number of unique invoices: 2048
+- Total number of unique customers: 166
 
 
 ### RFM Analysis
